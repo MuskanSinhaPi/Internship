@@ -1,0 +1,16 @@
+Rather than a vast ocean, Pluto’s heart might be hiding a huge, heavy treasure.
+
+Computer simulations suggest that an object about 730 kilometers wide, slightly larger than the asteroid Vesta, could have slammed into the dwarf planet billions of years ago, forming the famous Sputnik Planitia and leaving behind a rocky remnant, researchers report April 15 in Nature Astronomy.
+
+Sputnik Planitia first appeared in images taken by NASA’s New Horizons spacecraft as it zipped past Pluto in 2015 (SN: 7/15/15). The heart-shaped feature, which has roughly the same area as the Democratic Republic of Congo, sits three to four kilometers below the rest of Pluto’s surface and is filled with frozen nitrogen.
+“We think it’s an impact basin, because that’s the easiest way to make a giant hole in the ground,” says planetary scientist Adeene Denton of the University of Arizona in Tucson.
+
+Yet the basin’s location, across Pluto’s equator, is perplexing. Knocking a huge hole in one side of a rotating object, such as a dwarf planet or moon, would lead to unstable wobbles that shift the object’s tilt over millions of years. This explains, for instance, why the enormous Aitken basin on Earth’s moon presently sits near the lunar south pole.
+
+Some scientists have proposed that the impact that created Pluto’s heart also created a dense, subterranean ocean of liquid water, which has kept Sputnik Planitia situated at the equator (SN: 3/27/20). But explaining how the purported ocean could have survived over geologic time has proved challenging. Pluto’s surface is a frigid –230° Celsius and even the base of Sputnik Planitia is probably far below water’s freezing point.
+
+“What if Pluto didn’t have an ocean at all?” Denton says.To explore this possibility, she and her colleagues used computer simulations to see what would happen if rocky objects of different sizes crashed into Pluto. A space rock that’s roughly 730 kilometers in diameter is large enough to have a dense, solid core surrounded by lighter-weight materials. As a simulated object of such size plowed into Pluto, the impactor’s exterior vaporized but its heavy center remained intact. The core eventually settled below Sputnik Planitia’s surface, where it could keep the heart from straying. 
+
+“This is an important idea for us to be thinking about and exploring,” says Carver Bierson, a planetary scientist at Arizona State University in Tempe who wasn’t involved in the work. Other researchers have raised doubts about cold, tiny Pluto having an ocean, so he’s happy to see an alternative model that can explain Sputnik Planitia’s properties.
+
+Definitively determining which idea is correct will probably require placing an orbiter around Pluto that can measure the dwarf planet’s gravitational field, Denton says. Such a mission has been proposed, though would take decades to reach its goals.

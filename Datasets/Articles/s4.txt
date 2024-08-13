@@ -1,0 +1,23 @@
+Researchers may have figured out how a crucial ingredient that cells need to produce energy could form in deep space.
+
+Calculations and lab experiments suggest that glyceric acid can arise from radiation blasting carbon dioxide and ethylene glycol in interstellar clouds, researchers report in the March 15 Science Advances.
+
+The study is “a great start to understand how these molecules are formed in space,” says Anthony Remijan, an astrochemist at the National Radio Astronomy Observatory in Charlottesville, Va., who was not involved in the research. The finding suggests that “if you put the right mixture together, in the right conditions, maybe you can even afford more complex molecules in space,” he says.
+Glyceric acid plays an important role in cell metabolism, energy balance and photosynthesis, and it can go on to help form other complex molecules important for life. The acidic sugar has previously been found in meteorites, suggesting that it can form in outer space. Astronomers have yet to directly observe glyceric acid in space, but they suspect it may form in interstellar clouds such as the Orion Nebula, which roils with gas, plasma and dust.
+
+Telescope observations alone can’t decipher how an organic compound forms in space. But astronomers can identify what gases are present in interstellar clouds. And chemists can predict what happens to those gases when blasted with radiation. That approach has led scientists to demonstrate how, for example, the simple sugar ribose could be made in simulated interstellar conditions (SN: 4/7/16).
+
+So the new study began with a principal question: “Can we synthesize [glyceric acid] at low temperature and low pressure, like we get in space?” says Ryan Fortenberry, a theoretical astrochemist at the University of Mississippi near Oxford. “We think we can.”
+
+Fortenberry and colleagues started by looking into the properties of two compounds that are abundant in interstellar clouds — carbon dioxide and ethylene glycol, commonly known as the active ingredient in antifreeze.
+
+Computer calculations of how CO₂ and ethylene glycol respond to radiation suggest that they could team up to form glyceric acid in space. To verify the theoretical results, physical chemist Ralf Ingo Kaiser of the University of Hawaii at Manoa and colleagues deposited ices of carbon dioxide and ethylene glycol in a vacuum chamber at extremely low pressure and temperature. The team then blasted the compounds with radiation.
+
+“We cannot generate galactic cosmic rays in our lab,” Kaiser says, so they opted for the next best thing: spraying the compounds with electrons to simulate the shower of charged particles that’s triggered when cosmic rays hit ice. As the ices transitioned to vapors, the team further blasted the chamber with ultraviolet radiation, which resulted in the formation of glyceric acid molecules.
+
+“It’s not magic,” Fortenberry says. “But it feels like magic, because you get these biologically significant species from really mind-blowingly simple molecules.”
+
+While simple organic molecules are easy to observe in many cosmic environments, complex organics are harder to find. The study provides an understanding into “how much that very simple chemistry that we can observe can evolve into something more complex,” says Stefanie Milam, an astrochemist at NASA’s Goddard Space Flight Center in Greenbelt, Md.
+
+A next step, Fortenberry’s team says, is to search interstellar clouds for glyceric acid. Astronomers could use the Atacama Large Millimeter/submillimeter Array in Chile, which has helped find phosphorus-bearing molecules and others important for life in the cosmos.
+

@@ -1,0 +1,27 @@
+After months of challenging trouble-shooting and suspenseful waiting, Voyager 1 is once again talking to Earth.
+
+The aging NASA spacecraft, about 24 billion kilometers from home, began transmitting garbled data in November. On April 20, NASA scientists got the probe back online after uploading new flight software to work around a chunk of onboard computer memory that had failed. They’re now receiving data about the spacecraft’s health and hope to hear from its science instruments again in a few weeks, says Suzanne Dodd, the mission’s project manager at NASA’s Jet Propulsion Laboratory in Pasadena, Calif.
+
+That means the iconic craft could be on a path to recovery — and to continue its exploration of interstellar space.
+
+Launched in 1977, Voyager 1 briefly visited Jupiter and Saturn before eventually departing the solar system. It and its twin, Voyager 2, are the longest-operating space probes, now tasked with studying far-flung solar particles and cosmic rays. In particular, the probes have been monitoring the changing of the sun’s magnetic field and the density of plasma beyond the solar system, yielding information about the farthest reaches of the sun’s influence.
+
+“The spacecraft is really remarkable in its longevity. It’s incredible,” Dodd says. “We want to keep Voyager going as long as possible so we have this time record of these changes.”
+
+Voyager 1 and 2, cruising along diverging paths, made history by crossing the heliopause in 2012 and 2018, respectively (SN: 9/12/13; SN: 12/10/18). At nearly 18 billion kilometers from the sun, that’s long been considered the outer extent of our star’s magnetic field and the solar wind, the boundary before interstellar space.
+
+Since then, Dodd says, the science team has made some surprising findings (SN: 11/4/19). For one, they’ve determined that the heliosphere, the huge bubble of space dominated by the solar wind, might not be spherical but have one or two tails, making it shaped like a comet or a croissant.
+
+And thanks to Voyager, scientists now know that, despite expectations otherwise, the sun’s magnetic field and charged particles actually remain significant even beyond the heliopause, says David McComas, a Princeton University astrophysicist not involved in the mission.
+
+Some theories predicted a serene environment in the distant oceans of interstellar space, but the Voyagers keep passing through waves of charged particles, indicating that the solar magnetic field still holds some sway there. What’s more, the probes’ data have shown how ripples in the field form bubbles at the edge of the solar system, which is more frothy and dynamic than expected.
+
+Other missions have begun building on Voyager’s solar physics research. These include NASA’s Interstellar Boundary Explorer, or IBEX, and the Interstellar Mapping and Acceleration Probe, or IMAP, which is set to launch next year. Earth-orbiting IBEX has been measuring high-energy particles to map the heliosphere for 15 years, whereas IMAP will orbit between the sun and Earth, giving it an uninterrupted view of the sun as it monitors the galactic cosmic rays that manage to filter through the heliosphere.
+
+“There’s a huge synergy between the Voyagers and both IBEX and IMAP,” says McComas, principal investigator of the latter two missions. “We were all really scared when Voyager 1 stopped phoning home.”
+
+It will be decades until another mission could accomplish what the Voyagers have done. NASA’s New Horizons soared by Pluto in 2015 and kept going (SN:8/9/18). It’s heading toward the edge of the solar system, but it’s cruising slowly and will run out of power before it can collect data beyond the heliopause.
+
+The Voyagers can fly forever, but power for their instruments is waning. Over the next few years, NASA will shut some down to conserve energy for the rest.
+
+That means Voyager 1’s days of collecting science data are numbered. “It’s a very beloved mission,” Dodd says. “It’s humanity’s spacecraft, and we need to take care of it.”
