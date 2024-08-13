@@ -1,4 +1,4 @@
-<h2> The Colab notebooks used during my 2.5 month Summer Research Internship at DRDO </h2>
+<h2> The GitHub Repository for my 2.5 month Summer Research Internship at DRDO </h2>
 <h3> Report to my Internship Project: https://muskansinhapi.github.io/InternReport/ </h3>
 <ol>
 <li>
