@@ -1,5 +1,14 @@
 <h2> The GitHub Repository for my 2.5 month Summer Research Internship at DRDO </h2>
 <h3> Report to my Internship Project: https://muskansinhapi.github.io/InternReport/ </h3>
+<br>
+This paper and approach was referred to for crime prediction on the San Francisco Crime dataset, however, owing to the low sparsity, the model's accuracy and predictive power was impacted.
+<h3> STHSL </h3>
+A pytorch implementation for the paper:
+<a src="https://ieeexplore.ieee.org/document/9835423">Spatial-Temporal Hypergraph Self-Supervised Learning for Crime Prediction </a> in ICDE 2022.
+
+<h4>Introduction</h4>h4>
+Spatial-Temporal Hypergraph Self-Supervised Learning for Crime Prediction (STHSL) is a spatio-temporal prediction networks. By adding self-supervised learning methods as auxiliary tasks, STHSL can tackle the label scarcity issue in crime prediction.
+
 <ol>
 <li>
 Colab notebook for SF Crime Prediction: https://colab.research.google.com/drive/1snqWFgXoSvh8VGxOWg7lM9VTttsfNHYL?usp=sharing
